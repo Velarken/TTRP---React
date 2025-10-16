@@ -1,0 +1,14 @@
+.weaponContainer {
+    display:flex;
+    flex-direction: column;
+}
+.weaponHeader {
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.weaponButtons {
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+}

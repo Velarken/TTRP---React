@@ -1,0 +1,19 @@
+.checkboxes {
+    display:flex;
+    flex-direction: row;
+    width:40vw;
+    justify-content: space-evenly;
+}
+
+.resourceContainer {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    margin:1vh;
+    padding:1vh;
+}
+.resourceGrid {
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+}
